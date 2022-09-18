@@ -1,0 +1,15 @@
+C:\Users\hp\Desktop\Kodlama\C#\if_else_ternary\obj\Debug\net6.0\if_else_ternary.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\Kodlama\C#\if_else_ternary\obj\Debug\net6.0\if_else_ternary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Desktop\Kodlama\C#\if_else_ternary\obj\Debug\net6.0\if_else_ternary.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\Kodlama\C#\if_else_ternary\obj\Debug\net6.0\if_else_ternary.AssemblyInfo.cs
+C:\Users\hp\Desktop\Kodlama\C#\if_else_ternary\obj\Debug\net6.0\if_else_ternary.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\Kodlama\C#\if_else_ternary\obj\Debug\net6.0\if_else_ternary.dll
+C:\Users\hp\Desktop\Kodlama\C#\if_else_ternary\obj\Debug\net6.0\if_else_ternary.pdb
+C:\Users\hp\Desktop\Kodlama\C#\if_else_ternary\bin\Debug\net6.0\if_else_ternary.exe
+C:\Users\hp\Desktop\Kodlama\C#\if_else_ternary\bin\Debug\net6.0\if_else_ternary.deps.json
+C:\Users\hp\Desktop\Kodlama\C#\if_else_ternary\bin\Debug\net6.0\if_else_ternary.runtimeconfig.json
+C:\Users\hp\Desktop\Kodlama\C#\if_else_ternary\bin\Debug\net6.0\if_else_ternary.dll
+C:\Users\hp\Desktop\Kodlama\C#\if_else_ternary\bin\Debug\net6.0\if_else_ternary.pdb
+C:\Users\hp\Desktop\Kodlama\C#\if_else_ternary\obj\Debug\net6.0\refint\if_else_ternary.dll
+C:\Users\hp\Desktop\Kodlama\C#\if_else_ternary\obj\Debug\net6.0\if_else_ternary.genruntimeconfig.cache
+C:\Users\hp\Desktop\Kodlama\C#\if_else_ternary\obj\Debug\net6.0\ref\if_else_ternary.dll
